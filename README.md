@@ -1,0 +1,2 @@
+# LatinMania
+ServerMinecraft
